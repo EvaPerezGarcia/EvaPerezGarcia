@@ -19,7 +19,7 @@ Me interesa el ciclo de vida completo del análisis de datos: desde la **adquisi
 ---
 
 ## 📊 **[Proyectos-Analisis-de-Datos]**
-Este repositorio contiene mi portafolio principal, incluyendo el diseño de bases de datos relacionales (MySQL) y análisis de indicadores socioeconómicos (Python).
+Este repositorio contiene mis proyectos académicos, incluyendo el diseño de bases de datos relacionales (MySQL) y análisis de indicadores socioeconómicos (Python).
 
 [Ver el Portafolio Completo](https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos)
 
@@ -30,5 +30,4 @@ Este repositorio contiene mi portafolio principal, incluyendo el diseño de base
 | :--- | :--- |
 | **Bases de Datos & SQL** | MySQL, Modelado de Datos, Consultas Complejas, Normalización. |
 | **Programación & Análisis** | **Python**, **Pandas** (Limpieza y Transformación de Datos), Jupyter Notebook. |
-| **Visualización** | Matplotlib, Seaborn, (Añade aquí si usas Power BI o Tableau). |
-| **Control de Versiones** | **Git**, **GitHub** (Organización y Colaboración). |
+| **Visualización** | Matplotlib |
