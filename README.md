@@ -13,8 +13,8 @@ Me interesa el ciclo de vida completo del análisis de datos: desde la **adquisi
 💼 Abierta a roles: **Prácticas de Data Analyst** 
 
 ### Contacto
-* **LinkedIn:** [www.linkedin.com/in/eva-pérez-garcía]
-* **Correo Electrónico:** [evapeerezgar@gmail.com]
+* **LinkedIn:** www.linkedin.com/in/eva-pérez-garcía
+* **Correo Electrónico:** evapeerezgar@gmail.com
 
 ---
 
