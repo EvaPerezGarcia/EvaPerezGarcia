@@ -6,11 +6,11 @@ Me interesa el ciclo de vida completo del análisis de datos: desde la **adquisi
 
 ---
 
-### Ubicación
-📍 Madrid, España
+### 📍 Ubicación
+Madrid, España
 
-### Disponibilidad
-💼 Abierta a roles: **Prácticas de Data Analyst** 
+### 💼 Disponibilidad
+Abierta a roles: **Prácticas de Data Analyst** 
 
 ### Contacto
 * **LinkedIn:** [www.linkedin.com/in/eva-pérez-garcía]
@@ -23,7 +23,7 @@ Este repositorio contiene mis proyectos académicos:
 [Ver el Portafolio Completo](https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos)
 
 
-## 🛠️ Habilidades y Software
+## Habilidades y Software
 
 | Categoría | Habilidades y Herramientas |
 | :--- | :--- |
