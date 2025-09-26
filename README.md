@@ -1,4 +1,4 @@
-# Eva Pérez García | Estudiante en Universidad Carlos III de Madrid
+# Eva Pérez García 
 
 **Intereses:** Análisis de Datos (Data Analysis) · Modelado SQL · Visualización de Datos
 
