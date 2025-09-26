@@ -18,13 +18,12 @@ Me interesa el ciclo de vida completo del análisis de datos: desde la **adquisi
 
 ---
 
-## 📊 **[Proyectos-Analisis-de-Datos]**
-Este repositorio contiene mis proyectos académicos, incluyendo el diseño de bases de datos relacionales (MySQL) y análisis de indicadores socioeconómicos (Python).
-
+## 📊 **Proyectos Analisis de Datos**
+Este repositorio contiene mis proyectos académicos:
 [Ver el Portafolio Completo](https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos)
 
 
-## 🛠️ Stack Principal (Habilidades y Software)
+## 🛠️ Habilidades y Software
 
 | Categoría | Habilidades y Herramientas |
 | :--- | :--- |
