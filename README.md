@@ -2,8 +2,6 @@
 
 **Intereses:** Análisis de Datos (Data Analysis) · Modelado SQL · Visualización de Datos
 
-Me interesa el ciclo de vida completo del análisis de datos: desde la **adquisición y limpieza** de datos hasta el **análisis profundo**, la **creación de métricas** y la **visualización** para la toma de decisiones.
-
 ---
 
 ### Ubicación
