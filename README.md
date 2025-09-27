@@ -1,23 +1,23 @@
 # Eva Pérez García
 
-### Apasionada por el Análisis de Datos.
+### Apasionada por el Análisis de Datos
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gestión+de+Información+y+Contenidos+Digitales" alt="Typing Animation" /> </p>
-
----
-
-## 🌟 Intereses
-Análisis de Datos (Data Analysis) · Modelado SQL · Visualización de Datos
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gestión+de+Información+y+Contenidos+Digitales" alt="Typing Animation" />
+</div>
 
 ---
+
+## Intereses
+Análisis de Datos · Modelado SQL · Visualización de Información · Gestión de Contenidos Digitales
 
 ## 📍 Ubicación
 Madrid, España
 
 ## 💼 Disponibilidad
-Abierta a roles: **Prácticas de Data Analyst**
+Abierta a roles: **Prácticas en Data Analysis o Gestión Digital**
 
-## 📫 Contacto
+## Contacto
 - **LinkedIn:** [Eva Pérez García](https://www.linkedin.com/in/eva-pérez-garcía)  
 - **Correo Electrónico:** evapeerezgar@gmail.com
 
@@ -29,7 +29,7 @@ Este repositorio contiene mis proyectos académicos:
 
 ---
 
-## 🔬 Habilidades y Software
+## Habilidades y Software
 
 ### Bases de Datos & SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -44,6 +44,3 @@ Este repositorio contiene mis proyectos académicos:
 
 ### Visualización de Datos
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
-
----
-
