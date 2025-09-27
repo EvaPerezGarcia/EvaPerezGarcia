@@ -1,6 +1,6 @@
 # Eva Pérez García
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A0522D&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!" alt="Typing Animation" />
 
 ---
 
