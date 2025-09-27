@@ -11,7 +11,7 @@ Análisis de Datos · Modelado SQL · Visualización de Información
 Madrid, España
 
 ## 💼 Disponibilidad
-Abierta a roles: **Prácticas de Data Analyst **
+Abierta a roles: Prácticas de Data Analyst 
 
 ## Contacto
 - **LinkedIn:** [Eva Pérez García](https://www.linkedin.com/in/eva-pérez-garcía)  
