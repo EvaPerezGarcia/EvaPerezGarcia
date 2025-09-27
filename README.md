@@ -1,7 +1,5 @@
 # Eva Pérez García
 
-### Apasionada por el Análisis de Datos
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gesti%C3%B3n+de+Informaci%C3%B3n+y+Contenidos+Digitales" alt="Typing Animation" />
 
 ---
