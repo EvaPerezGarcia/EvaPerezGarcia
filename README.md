@@ -2,9 +2,7 @@
 
 ### Apasionada por el Análisis de Datos
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gestión+de+Información+y+Contenidos+Digitales" alt="Typing Animation" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gesti%C3%B3n+de+Informaci%C3%B3n+y+Contenidos+Digitales" alt="Typing Animation" />
 
 ---
 
@@ -44,3 +42,4 @@ Este repositorio contiene mis proyectos académicos:
 
 ### Visualización de Datos
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
+
