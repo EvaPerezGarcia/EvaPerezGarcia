@@ -7,13 +7,13 @@
 ---
 
 ## Intereses
-Análisis de Datos · Modelado SQL · Visualización de Información · Gestión de Contenidos Digitales
+Análisis de Datos · Modelado SQL · Visualización de Información 
 
 ## 📍 Ubicación
 Madrid, España
 
 ## 💼 Disponibilidad
-Abierta a roles: **Prácticas en Data Analysis o Gestión Digital**
+Abierta a roles: **Prácticas de Data Analyst **
 
 ## Contacto
 - **LinkedIn:** [Eva Pérez García](https://www.linkedin.com/in/eva-pérez-garcía)  
