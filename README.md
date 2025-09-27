@@ -1,11 +1,8 @@
 # Eva Pérez García
 
-### Apasionada por el Análisis de Datos y la Visualización de Información
+### Apasionada por el Análisis de Datos.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Data+Analysis;Apasionada+por+Python+y+SQL" alt="Typing Animation" />
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3776AB&center=true&width=600&lines=%C2%A1Bienvenido+a+mi+GitHub!;Estudiante+de+Gestión+de+Información+y+Contenidos+Digitales" alt="Typing Animation" /> </p>
 
 ---
 
