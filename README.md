@@ -40,5 +40,5 @@ Este repositorio contiene mis proyectos académicos:
 
 ### Visualización de Datos
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-11557C?logo=powerBI&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=white)
 
