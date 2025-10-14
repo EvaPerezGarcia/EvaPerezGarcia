@@ -37,6 +37,7 @@ Este repositorio contiene mis proyectos académicos:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power_Query-F2C811?logo=microsoft-power-bi&logoColor=white)
 
 ### Visualización de Datos
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
