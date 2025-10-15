@@ -5,7 +5,7 @@
 ---
 
 ## Intereses
-Análisis de Datos · Modelado SQL · Visualización de Información 
+Análisis de Datos · Modelado SQL · Limpieza y Visualización de Datos 
 
 ## 📍 Ubicación
 Madrid, España
