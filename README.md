@@ -10,9 +10,6 @@ Análisis de Datos · Modelado SQL · Limpieza y Visualización de Datos
 ## 📍 Ubicación
 Madrid, España
 
-## 💼 Disponibilidad
-Abierta a roles: Prácticas de Data Analyst 
-
 ## Contacto
 - **LinkedIn:** [Eva Pérez García](https://www.linkedin.com/in/eva-pérez-garcía)  
 - **Correo Electrónico:** evapeerezgar@gmail.com
