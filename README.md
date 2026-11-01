@@ -119,7 +119,7 @@ My projects combine data processing, statistical analysis, programming and visua
 
 *Bachelor's Degree in Management of Information and Digital Contents*
 
-<sub>2023 — 2027</sub>
+<sub>2023 - 2027</sub>
 
 - Academic focus on Big Data, Artificial Intelligence and Data Science.
 - Specialized training in Python, data analysis, database management, digital analytics and data visualization.
