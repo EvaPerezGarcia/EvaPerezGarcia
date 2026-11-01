@@ -41,6 +41,8 @@ Este repositorio contiene mis proyectos académicos:
 ### Inteligencia Artificial
 ![GenAI](https://img.shields.io/badge/-GenAI-412991?logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-8A2BE2?logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/-Azure_AI-0078D4?logo=microsoftazure&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/-Microsoft_Foundry-5E5E5E?logo=microsoft&logoColor=white)
 
 ### Análisis & Visualización de Datos
 ![Análisis Estadístico](https://img.shields.io/badge/-Análisis_Estadístico-5C2D91?logo=r&logoColor=white)
