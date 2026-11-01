@@ -17,7 +17,7 @@ Madrid, España
 
 ---
 
-## 📊 Proyectos de Data e IA
+## 📊 Proyectos de Data & AI
 Este repositorio contiene mis proyectos académicos:  
 [Ver el Portafolio Completo](https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos)
 
