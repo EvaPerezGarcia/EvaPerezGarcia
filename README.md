@@ -1,29 +1,30 @@
-<!-- ==================== HEADER ==================== -->
-
 <div align="center">
 
 <img width="100%" height="160" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B63,100:2563EB&height=160&section=header" />
 
 <h1>Eva Pérez García</h1>
 
-<h3>Data Analytics · Artificial Intelligence · Business Intelligence</h3>
+<h3>DATA ANALYTICS · ARTIFICIAL INTELLIGENCE · BUSINESS INTELLIGENCE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Exploring+the+potential+of+Artificial+Intelligence;Building+data-driven+solutions" alt="Professional introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Exploring+the+potential+of+Artificial+Intelligence;Building+data-driven+solutions" alt="Professional introduction" />
 
-<br/>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/eva-p%C3%A9rez-garc%C3%ADa/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-263B53?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:evapeerezgar@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-4B5FE8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</div>
 </div>
 
 ---
 
-## 01. ABOUT ME
+## <code>01 /</code> ABOUT ME
 
 I'm **Eva Pérez García**, a final-year student of **Management of Information and Digital Contents at Universidad Carlos III de Madrid (UC3M)**, with a strong interest in data analytics, business intelligence and artificial intelligence.
 
@@ -33,28 +34,29 @@ My academic background combines programming, data analysis, database management,
 
 <table>
 <tr>
-<td align="center">
-<b>LOCATION</b><br/>
-Madrid, Spain
+<td align="left" width="220">
+<img src="https://img.shields.io/badge/-263B53?style=flat-square" width="28" height="4" /><br/>
+<sub><b>LOCATION</b></sub><br/>
+<strong>Madrid, Spain</strong>
 </td>
-<td align="center">
-<b>EDUCATION</b><br/>
-UC3M · 2023–2027
+<td align="left" width="220">
+<img src="https://img.shields.io/badge/-2563EB?style=flat-square" width="28" height="4" /><br/>
+<sub><b>EDUCATION</b></sub><br/>
+<strong>UC3M</strong> · 2023–2027
 </td>
-<td align="center">
-<b>PROFESSIONAL INTERESTS</b><br/>
-Data Analytics & AI
+<td align="left" width="260">
+<img src="https://img.shields.io/badge/-2563EB?style=flat-square" width="28" height="4" /><br/>
+<sub><b>PROFESSIONAL INTERESTS</b></sub><br/>
+<strong>Data Analytics & AI</strong>
 </td>
 </tr>
 </table>
 
 </div>
 
-
-
 ---
 
-## 02. TECHNICAL SKILLS
+## <code>02 /</code> TECHNICAL SKILLS
 
 ### DATABASES & DATA MANAGEMENT
 
@@ -95,29 +97,7 @@ Data Analytics & AI
 
 ---
 
-## 03. EDUCATION & CERTIFICATIONS
-
-**Universidad Carlos III de Madrid (UC3M)**
-
-*Bachelor's Degree in Management of Information and Digital Contents*
-
-2023–2027
-
-- Academic focus on Big Data, Artificial Intelligence and Data Science.
-- Specialized training in Python, data analysis, database management, digital analytics and data visualization.
-- Academic Honors in Analytics and Web Positioning, and External Academic Internships.
-- Academic distinction in Advanced Digital Competencies for Data Processing.
-
-**Certifications**
-
-- Microsoft Certified: Azure AI Fundamentals - Microsoft 
-- Applied Data Science with Python - IBM 
-- Microsoft Excel - Santander Open Academy 
-- B2 First Certificate - LanguageCert
-
----
-
-## 04. FEATURED PROJECTS
+## <code>03 /</code> FEATURED PROJECTS
 
 My projects combine data processing, statistical analysis, programming and visualization to explore real-world problems and develop data-driven solutions.
 
@@ -131,15 +111,72 @@ My projects combine data processing, statistical analysis, programming and visua
 
 ---
 
+## <code>04 /</code> EDUCATION & CERTIFICATIONS
+
+### ACADEMIC BACKGROUND
+
+**Universidad Carlos III de Madrid (UC3M)**
+
+*Bachelor's Degree in Management of Information and Digital Contents*
+
+<sub>2023 — 2027</sub>
+
+- Academic focus on Big Data, Artificial Intelligence and Data Science.
+- Specialized training in Python, data analysis, database management, digital analytics and data visualization.
+- Academic Honors in Analytics and Web Positioning, and External Academic Internships.
+- Academic distinction in Advanced Digital Competencies for Data Processing.
+
+### CERTIFICATIONS & CREDENTIALS
+
+<div align="center">
+
+**[Applied Data Science with Python](https://drive.google.com/file/d/1cQ1SmSE6quOou_3vIPqmh9iTYAUsN0pi/view)**
+
+<img src="https://img.shields.io/badge/IBM-263B53?style=flat&logo=ibm&logoColor=white" />
+
+<sub>DATA SCIENCE · PYTHON · DATA ANALYSIS</sub>
+
+<br/>
+
+---
+
+**[Microsoft Azure AI Fundamentals](https://drive.google.com/file/d/1Ks5u4hsNCgDv3v7POWLXSv2XtbUo4nfB/view)**
+
+<img src="https://img.shields.io/badge/MICROSOFT-263B53?style=flat&logo=microsoft&logoColor=white" />
+
+<sub>ARTIFICIAL INTELLIGENCE · CLOUD COMPUTING</sub>
+
+<br/>
+
+---
+
+**[Power BI for Beginners](https://drive.google.com/file/d/1uQ_qSQH_62Xa_tVQAtHazVdlM-C4tSN3/view)**
+
+<img src="https://img.shields.io/badge/POWER_BI-263B53?style=flat&logo=powerbi&logoColor=white" />
+
+<sub>BUSINESS INTELLIGENCE · DATA VISUALIZATION</sub>
+
+<br/>
+
+---
+
+**[Microsoft Excel](https://drive.google.com/file/d/1_WTxKiRIaRq-cFVQ14zFKAq15Lgkx4pL/view)**
+
+<img src="https://img.shields.io/badge/SANTANDER_OPEN_ACADEMY-263B53?style=flat&logo=santander&logoColor=white" />
+
+<sub>SPREADSHEET MANAGEMENT · DATA PROCESSING</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 <h3>Turning data into insights. Building what's next.</h3>
 
-<p>
-  <i>Curiosity, technology and data-driven thinking.</i>
-</p>
+<i>Curiosity, technology and data-driven thinking.</i>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:123B63,100:2563EB&height=110&section=footer" width="100%" />
 
