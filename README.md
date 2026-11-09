@@ -152,7 +152,7 @@ My projects combine data processing, statistical analysis, programming and visua
 
 **[Power BI for Beginners](https://drive.google.com/file/d/1uQ_qSQH_62Xa_tVQAtHazVdlM-C4tSN3/view)**
 
-<img src="https://img.shields.io/badge/POWER_BI-263B53?style=flat&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/SIMPLILEARN-263B53?style=flat&logo=simplilearn&logoColor=white" />
 
 <sub>BUSINESS INTELLIGENCE · DATA VISUALIZATION</sub>
 
