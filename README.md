@@ -101,14 +101,16 @@ My academic background combines programming, data analysis, database management,
 
 My projects combine data processing, statistical analysis, programming and visualization to explore real-world problems and develop data-driven solutions.
 
+I also design and develop web applications, building digital tools focused on productivity, functionality and user experience.
+
 <div align="center">
 
 <a href="https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos">
-<img src="https://img.shields.io/badge/DATA_AI_PROJECTS-263B53?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-AI_PROJECTS-263B53?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/EvaPerezGarcia/Apps">
-<img src="https://img.shields.io/badge/APPLICATIONS-123B63?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPS-123B63?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
