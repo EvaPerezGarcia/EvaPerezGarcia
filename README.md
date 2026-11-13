@@ -106,7 +106,7 @@ I also design and develop web applications, building digital tools focused on pr
 <div align="center">
 
 <a href="https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos">
-<img src="https://img.shields.io/badge/DATA-AI_PROJECTS-263B53?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA_AI_PROJECTS-263B53?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/EvaPerezGarcia/Apps">
