@@ -104,7 +104,11 @@ My projects combine data processing, statistical analysis, programming and visua
 <div align="center">
 
 <a href="https://github.com/EvaPerezGarcia/Proyectos-Analisis-de-Datos">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-263B53?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA_AI_PROJECTS-263B53?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/EvaPerezGarcia/Apps">
+<img src="https://img.shields.io/badge/APPLICATIONS-123B63?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
